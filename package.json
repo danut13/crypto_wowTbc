@@ -1,0 +1,22 @@
+{
+  "name": "crypto_wowtbc",
+  "version": "1.0.0",
+  "description": "Crypto wow tbc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danut13/crypto_wowTbc.git"
+  },
+  "author": "ilisei danut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danut13/crypto_wowTbc/issues"
+  },
+  "homepage": "https://github.com/danut13/crypto_wowTbc#readme",
+  "devDependencies": {
+    "hardhat": "^2.8.0"
+  }
+}
