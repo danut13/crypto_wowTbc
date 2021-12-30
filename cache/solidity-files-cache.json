@@ -1,8 +1,8 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/home/dani/Dev/crypto_wowTbc/contracts/player.sol": {
-      "lastModificationDate": 1640819637859,
+    "/home/danut/Dev/crypto_wowTbc/contracts/player.sol": {
+      "lastModificationDate": 1640855937285,
       "contentHash": "f6486d78d0c21368de7f9437dc5b11a9",
       "sourceName": "contracts/player.sol",
       "solcConfig": {
@@ -38,8 +38,8 @@
         "PlayerFactory"
       ]
     },
-    "/home/dani/Dev/crypto_wowTbc/contracts/subscription.sol": {
-      "lastModificationDate": 1640819636379,
+    "/home/danut/Dev/crypto_wowTbc/contracts/subscription.sol": {
+      "lastModificationDate": 1640855937285,
       "contentHash": "1f3220cba0a90a8c01dfe06d01750b2f",
       "sourceName": "contracts/subscription.sol",
       "solcConfig": {
